@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ãš±8×çü÷Ä1
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã§³8À­ı÷Ä1
+r	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÊ°óÿÿÿÿÿ8Á­ı÷Ä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½”µ£øÿÿÿÿ8·”ô÷Ä1
+n	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûœ¢Äıÿÿÿÿ8»”ô÷Ä1
+{	java:S116"ZRename this field "nome_disciplina" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š·–åøÿÿÿÿ8¼”ô÷Ä1
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ–›ûÿÿÿÿ8£®ı÷Ä1
+o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÊ°óÿÿÿÿÿ8ª®ı÷Ä1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Æ”ô÷Ä1

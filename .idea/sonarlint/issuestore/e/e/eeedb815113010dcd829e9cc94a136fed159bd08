@@ -1,0 +1,11 @@
+
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÜ›Şüÿÿÿÿ8µ÷ŒˆÅ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°‘ò°8¼÷ŒˆÅ1
+L	java:S106"+Replace this use of System.out by a logger.(Üïœ®şÿÿÿÿ8Õ÷ŒˆÅ1
+G	java:S1061"+Replace this use of System.out by a logger.(Ø¾ş8ÌøŒˆÅ1
+]	java:S1252"<This block of commented-out lines of code should be removed.(ğÍœ›ıÿÿÿÿ8ÓøŒˆÅ1
+_
+java:S16123"=Replace this lambda with method reference 'Matricula::print'.(ÂÜ›Şüÿÿÿÿ8ÖøŒˆÅ1
+L	java:S1064"+Replace this use of System.out by a logger.(†Ğ±œşÿÿÿÿ8úøŒˆÅ1
+L	java:S106>"+Replace this use of System.out by a logger.(ˆšÆøıÿÿÿÿ8ùŒˆÅ1
+L	java:S106G"+Replace this use of System.out by a logger.(ú’¼Šşÿÿÿÿ8ªùŒˆÅ1
